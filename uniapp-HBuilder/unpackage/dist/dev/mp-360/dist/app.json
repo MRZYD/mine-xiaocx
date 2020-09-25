@@ -1,0 +1,17 @@
+{
+  "sdkversion": "1.0.0",
+  "pages": [
+    {
+      "route": "pages/index/index",
+      "window": {
+        "navigationBarTitleText": "uni-ui基础项目"
+      }
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#007AFF",
+    "backgroundColor": "#FFFFFF"
+  }
+}
